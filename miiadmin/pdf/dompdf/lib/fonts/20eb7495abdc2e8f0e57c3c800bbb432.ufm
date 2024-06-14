@@ -1,0 +1,129 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright 2016 | All Rights Reserved
+FontName Summer Hearts
+FontSubfamily Regular
+UniqueID 1.000;UKWN;SummerHearts-Regular
+FullName SummerHearts-Regular
+Version Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775
+PostScriptName SummerHearts-Regular
+Manufacturer Hustle Supply Co.
+Designer Jeremy Vessey
+FontVendorURL http://www.creativemarket.com/hustlesupplyco
+FontDesignerURL http://www.jeremyvessey.com
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 1000
+Descender -200
+FontBBox -131 -335 980 1132
+StartCharMetrics 108
+U 32 ; WX 350 ; N uni0020 ; G 93
+U 33 ; WX 575 ; N uni0021 ; G 73
+U 34 ; WX 451 ; N uni0022 ; G 79
+U 35 ; WX 791 ; N uni0023 ; G 75
+U 36 ; WX 600 ; N uni0024 ; G 94
+U 37 ; WX 774 ; N uni0025 ; G 102
+U 38 ; WX 632 ; N uni0026 ; G 106
+U 39 ; WX 349 ; N uni0027 ; G 80
+U 40 ; WX 671 ; N uni0028 ; G 88
+U 41 ; WX 548 ; N uni0029 ; G 89
+U 42 ; WX 577 ; N uni002a ; G 68
+U 43 ; WX 632 ; N uni002b ; G 103
+U 44 ; WX 339 ; N uni002c ; G 72
+U 45 ; WX 642 ; N uni002d ; G 92
+U 46 ; WX 311 ; N uni002e ; G 76
+U 47 ; WX 680 ; N uni002f ; G 82
+U 48 ; WX 497 ; N uni0030 ; G 58
+U 49 ; WX 315 ; N uni0031 ; G 59
+U 50 ; WX 517 ; N uni0032 ; G 60
+U 51 ; WX 440 ; N uni0033 ; G 61
+U 52 ; WX 514 ; N uni0034 ; G 62
+U 53 ; WX 586 ; N uni0035 ; G 63
+U 54 ; WX 473 ; N uni0036 ; G 64
+U 55 ; WX 554 ; N uni0037 ; G 65
+U 56 ; WX 488 ; N uni0038 ; G 66
+U 57 ; WX 497 ; N uni0039 ; G 67
+U 58 ; WX 382 ; N uni003a ; G 71
+U 59 ; WX 365 ; N uni003b ; G 81
+U 60 ; WX 697 ; N uni003c ; G 99
+U 61 ; WX 719 ; N uni003d ; G 97
+U 62 ; WX 709 ; N uni003e ; G 98
+U 63 ; WX 642 ; N uni003f ; G 77
+U 64 ; WX 1030 ; N uni0040 ; G 105
+U 65 ; WX 470 ; N uni0041 ; G 1
+U 66 ; WX 530 ; N uni0042 ; G 2
+U 67 ; WX 440 ; N uni0043 ; G 3
+U 68 ; WX 540 ; N uni0044 ; G 4
+U 69 ; WX 420 ; N uni0045 ; G 5
+U 70 ; WX 440 ; N uni0046 ; G 6
+U 71 ; WX 510 ; N uni0047 ; G 7
+U 72 ; WX 510 ; N uni0048 ; G 8
+U 73 ; WX 380 ; N uni0049 ; G 9
+U 74 ; WX 410 ; N uni004a ; G 10
+U 75 ; WX 600 ; N uni004b ; G 11
+U 76 ; WX 510 ; N uni004c ; G 12
+U 77 ; WX 790 ; N uni004d ; G 13
+U 78 ; WX 640 ; N uni004e ; G 14
+U 79 ; WX 500 ; N uni004f ; G 15
+U 80 ; WX 510 ; N uni0050 ; G 16
+U 81 ; WX 480 ; N uni0051 ; G 17
+U 82 ; WX 460 ; N uni0052 ; G 18
+U 83 ; WX 410 ; N uni0053 ; G 19
+U 84 ; WX 530 ; N uni0054 ; G 20
+U 85 ; WX 540 ; N uni0055 ; G 21
+U 86 ; WX 410 ; N uni0056 ; G 22
+U 87 ; WX 740 ; N uni0057 ; G 23
+U 88 ; WX 530 ; N uni0058 ; G 24
+U 89 ; WX 570 ; N uni0059 ; G 25
+U 90 ; WX 630 ; N uni005a ; G 26
+U 91 ; WX 574 ; N uni005b ; G 86
+U 92 ; WX 730 ; N uni005c ; G 69
+U 93 ; WX 504 ; N uni005d ; G 87
+U 94 ; WX 793 ; N uni005e ; G 107
+U 95 ; WX 822 ; N uni005f ; G 83
+U 97 ; WX 697 ; N uni0061 ; G 27
+U 98 ; WX 560 ; N uni0062 ; G 28
+U 99 ; WX 410 ; N uni0063 ; G 29
+U 100 ; WX 630 ; N uni0064 ; G 30
+U 101 ; WX 420 ; N uni0065 ; G 31
+U 102 ; WX 490 ; N uni0066 ; G 32
+U 103 ; WX 490 ; N uni0067 ; G 33
+U 104 ; WX 570 ; N uni0068 ; G 34
+U 105 ; WX 210 ; N uni0069 ; G 35
+U 106 ; WX 480 ; N uni006a ; G 36
+U 107 ; WX 460 ; N uni006b ; G 37
+U 108 ; WX 350 ; N uni006c ; G 38
+U 109 ; WX 790 ; N uni006d ; G 39
+U 110 ; WX 530 ; N uni006e ; G 40
+U 111 ; WX 440 ; N uni006f ; G 41
+U 112 ; WX 550 ; N uni0070 ; G 42
+U 113 ; WX 490 ; N uni0071 ; G 43
+U 114 ; WX 470 ; N uni0072 ; G 44
+U 115 ; WX 400 ; N uni0073 ; G 45
+U 116 ; WX 460 ; N uni0074 ; G 46
+U 117 ; WX 600 ; N uni0075 ; G 47
+U 118 ; WX 390 ; N uni0076 ; G 48
+U 119 ; WX 700 ; N uni0077 ; G 49
+U 120 ; WX 510 ; N uni0078 ; G 50
+U 121 ; WX 500 ; N uni0079 ; G 51
+U 122 ; WX 630 ; N uni007a ; G 52
+U 123 ; WX 566 ; N uni007b ; G 84
+U 124 ; WX 373 ; N uni007c ; G 104
+U 125 ; WX 570 ; N uni007d ; G 85
+U 126 ; WX 837 ; N uni007e ; G 95
+U 161 ; WX 575 ; N uni00a1 ; G 74
+U 183 ; WX 304 ; N uni00b7 ; G 70
+U 191 ; WX 641 ; N uni00bf ; G 78
+U 215 ; WX 606 ; N uni00d7 ; G 101
+U 247 ; WX 884 ; N uni00f7 ; G 96
+U 8211 ; WX 767 ; N uni2013 ; G 91
+U 8212 ; WX 952 ; N uni2014 ; G 90
+U 8722 ; WX 600 ; N uni2212 ; G 100
+EndCharMetrics
+EndFontMetrics

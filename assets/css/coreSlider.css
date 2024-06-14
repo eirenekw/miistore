@@ -1,0 +1,126 @@
+
+/*
+ * CoreSlider v1.0.0
+ * Copyright 2016 Pavel Davydov
+ * 
+ * Licensed under MIT (http://opensource.org/licenses/MIT)
+ */
+
+
+.core-slider {
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.core-slider_viewport {
+  position: relative;
+  overflow: hidden;
+}
+
+.core-slider_list {
+  -webkit-transition: all 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+  transition: all 0.5s cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+.core-slider_item { 
+  float: left;
+}
+
+.core-slider_item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
+.core-slider_nav.is-disabled { display: none; }
+
+.core-slider_control-nav {
+  position: absolute;
+  z-index: 999;
+  left: 0;
+  right: 0;
+  bottom: 30px;
+  text-align: center;
+}
+
+.core-slider_control-nav-item {
+  -webkit-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 0 10px;
+  cursor: pointer;
+  background: none;
+}
+
+.core-slider_control-nav-item:hover { opacity: 0.3; }
+
+.core-slider_control-nav-item.is-active {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.core-slider_arrow {
+	position: absolute;
+  top: 50%;
+  margin-top: -25px;
+  width: 45px;
+  height: 45px;
+  z-index: 999;
+  cursor: pointer;
+  border: 1px dashed #FFFFFF;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.core-slider_arrow.is-disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+
+.core-slider_arrow__right {
+  right: 20px;
+  background: url(../img/arrow_right.png) no-repeat 14px 12px #1565C0;
+}
+
+.core-slider_arrow__left {
+  left: 20px;
+      background: url(../img/arrow_left.png) no-repeat 11px 12px #1565C0;
+}
+
+.core-slider__fullwidth .core-slider_viewport::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(img/dot.png) repeat 0 0;
+}
+
+.core-slider__carousel { overflow: hidden; }
+
+.core-slider__carousel::before, .core-slider__carousel::after {
+  content: "";
+  width: 150px;
+  position: absolute;
+  top: -5px;
+  bottom: -5px;
+  z-index: 200;
+}
+
+.core-slider__carousel .core-slider_viewport {
+  overflow: visible;
+  margin: 0 auto;
+}
+
+.core-slider__carousel .core-slider_arrow__left { left: 70px; }
+
+.core-slider__carousel .core-slider_arrow__right { right: 70px; }
