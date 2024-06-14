@@ -1,5 +1,5 @@
 # miistore
-Aplikasi toko online adalah proses transaksi jual beli dan pemesanan secara online. Ini versinya 1.1
+Aplikasi toko online adalah proses transaksi jual beli dan pemesanan secara online.
 <br/><br/>
 Ada beberapa fitur front end terdapat dalam aplikasi toko online : <br/>
 Pencarian produk berdasarkan kata kunci<br/>
@@ -38,3 +38,9 @@ Library PHP (ChartJS, PHPExcel)<br/>
 Web server XAMPP (Saya menggunakan XAMPP versi 5 sekaligus versi 7.1<br/>
 Web browser Mozilla dan Chrome<br/>
 OS Windows 8.1<br/>
+<br/>
+Version 1.1<br/>
+Add new repository<br/>
+<br/>
+Version 1.2<br/>
+Fix attribute error<br/>
