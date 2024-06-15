@@ -35,12 +35,13 @@ Bahasa front end (HTML, CSS, Javascript, JQuery)<br/>
 Bahasa framework CSS (Bootstrap)<br/>
 Bahasa back end (PHP dan MySQL)<br/>
 Library PHP (ChartJS, PHPExcel)<br/>
-Web server XAMPP (Saya menggunakan XAMPP versi 5 sekaligus versi 7.1<br/>
+Web server XAMPP (Saya menggunakan XAMPP versi 5 sekaligus versi 7.1)<br/>
 Web browser Mozilla dan Chrome<br/>
 OS Windows 8.1<br/>
 <br/>
 Version 1.1<br/>
-Add new repository<br/>
+Upload repositori pertama<br/>
 <br/>
 Version 1.2<br/>
-Fix attribute error<br/>
+Perbaiki atribute bermasalah<br/>
+Ubah gambar untuk slider<br/>
