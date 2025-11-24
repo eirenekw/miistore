@@ -45,3 +45,5 @@ Upload repositori pertama<br/>
 Version 1.2<br/>
 Perbaiki atribute bermasalah<br/>
 Ubah gambar untuk slider<br/>
+
+Apabila ada yang mengalami error, silakan hubungi kami melalui pesan pribadi (Direct Message) di Instagram kami @eirenekw<br/>
